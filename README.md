@@ -1,16 +1,84 @@
-## Hi there 👋
 
-<!--
-**snehagautam869/snehagautam869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sneha Gautam</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  MTech Artificial Intelligence Student
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Exploring Artificial Intelligence, programming, and practical
+  software development through academic and team projects.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MTech Artificial Intelligence student.
+- 💻 Learning programming and developing practical projects.
+- 🤖 Interested in Artificial Intelligence and Computer Vision.
+- 📚 Working on academic assignments and improving my coding skills.
+- 🌱 Continuously learning and exploring new technologies.
+
+---
+
+## 🚀 My Projects
+
+### 1. AI Lab Assignments
+
+Academic work related to Artificial Intelligence and Machine Learning.
+
+🔗 [View Repository](https://github.com/snehagautam869/AI_LAB_ASSIGNMENT)
+
+### 2. Git Lab 3 Assignment
+
+A practical assignment focused on Git and version control.
+
+🔗 [View Repository](https://github.com/snehagautam869/GIT_LAB_3_ASSIGNMENT)
+
+### 3. AI-VISTA — FSOC Camera Tracking System
+
+A team project focused on an AI-based virtual camera tracking
+system for coarse alignment of mobile Free Space Optical
+Communication (FSOC) terminals.
+
+**My contributions:**
+- Baseline beacon detection without YOLO.
+- Robustness evaluation under image disturbances.
+- Testing and analysis of detection performance.
+
+🔗 [View AI-VISTA Project](https://github.com/Akhan18/SIH-26169-AI-Vista-Camera-Tracking-System-for-course-alignment-of-mobile-FSOC-terminals)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Java
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Machine Learning
+- Computer Vision
+
+---
+
+## 📖 Currently Learning
+
+- Artificial Intelligence and Machine Learning
+- Python programming
+- Data Structures and Algorithms
+- Computer Vision
+- Software development practices
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [snehagautam869](https://github.com/snehagautam869)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ✨
+</p>
