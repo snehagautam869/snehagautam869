@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Sneha Gautam AI Portfolio Banner">
+  <img src=""C:\Users\Sneha Gautam\Downloads\ChatGPT Image Sep 19, 2026, 12_39_23 PM.png"" width="100%" alt="Sneha Gautam AI Portfolio Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Sneha Gautam</h1>
 
