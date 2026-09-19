@@ -1,5 +1,6 @@
-<img width="1536" height="1024" alt="ChatGPT Image Sep 19, 2026, 12_39_23 PM" src="https://github.com/user-attachments/assets/4884dfcd-401a-47cb-bd75-192ec6d88efc" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4884dfcd-401a-47cb-bd75-192ec6d88efc" width="100%" alt="Sneha Gautam AI Portfolio Banner">
+</p>
 </p>
 <h1 align="center">Hi 👋, I'm Sneha Gautam</h1>
 
