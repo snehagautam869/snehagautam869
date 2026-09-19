@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Sneha Gautam AI Portfolio Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Sneha Gautam</h1>
 
 <h3 align="center">
